@@ -1,0 +1,18 @@
+run.bat
+   ↓
+Python detected
+   ↓
+feature_engineering.ipynb executed
+   ↓
+model.ipynb executed
+   ↓
+predictions regenerated
+   ↓
+score.py executed
+   ↓
+12,000 predictions validated 
+31 December predictions validated 
+December chart generated 
+
+   ↓
+SUCCESS
